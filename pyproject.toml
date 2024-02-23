@@ -8,7 +8,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-ffmpeg = "^1.4"
+ffmpeg-python = "^0.2.0"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.0.1"
